@@ -1,5 +1,5 @@
 {
-    "name": "water",
+    "name": "emc-water",
     "description": "water module is a middle module that depends on elements",
     "version": "0.0.1",
     "dependencies": {
