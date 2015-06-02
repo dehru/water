@@ -2,7 +2,6 @@
     "name": "water",
     "description": "water module is a middle module that depends on elements",
     "version": "0.0.1",
-    "private": true,
     "dependencies": {
         "underscore": "1.6.0",
         "elements": "https://github.com/dehru/elements.git#0.0.2"
